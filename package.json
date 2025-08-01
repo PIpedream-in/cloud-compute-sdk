@@ -1,0 +1,35 @@
+{
+  "name": "@pipedream/cloud-compute-sdk",
+  "version": "1.0.0",
+  "description": "Official SDK for Pipedream Cloud Compute Platform",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "test": "jest"
+  },
+  "keywords": [
+    "cloud",
+    "compute",
+    "infrastructure", 
+    "deployment",
+    "sdk",
+    "typescript"
+  ],
+  "author": "Pipedream",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PIpedream-in/cloud-compute-sdk.git"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  },
+  "files": [
+    "dist/**/*",
+    "README.md",
+    "LICENSE"
+  ]
+}
