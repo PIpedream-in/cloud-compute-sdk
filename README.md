@@ -7,7 +7,7 @@ https://pipedream.in
 ## Installation
 
 ```bash
-npm install @pipedream/cloud-compute-sdk
+npm i @pipedream.in/cloud-compute-sdk
 ```
 
 ## Quick Start
