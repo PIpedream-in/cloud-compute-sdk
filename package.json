@@ -1,5 +1,5 @@
 {
-  "name": "@pipedream/cloud-compute-sdk",
+  "name": "@pipedream.in/cloud-compute-sdk",
   "version": "1.0.1",
   "description": "Official SDK for Pipedream Cloud Compute Platform",
   "main": "dist/index.js",
